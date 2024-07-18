@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\psi\enlisted\helmet/psi_patches_col"
+	
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+
+	//TRANSPARENCY AND AO:
+
+
+	$lightwarptexture "models\psi\shared/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.55" 		
+	"$phongexponenttexture" "models\psi\shared/phongwarp_sheen" 
+ 
+
+}
+
+

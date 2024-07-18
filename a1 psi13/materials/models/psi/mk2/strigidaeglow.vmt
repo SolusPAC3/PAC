@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/psi/mk2/strigidaeglow"
+
+	"$nocull" "1"
+	"$translucent" "1"
+}

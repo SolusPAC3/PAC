@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/psi/mk2/psi_mk2_bracers"
+	"$bumpmap" "models/psi/mk2/psi_mk2_bracers_n"
+	
+	//TRANSPARENCY AND AO:
+
+
+	$lightwarptexture "models\psi\shared/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.55" 		
+	"$phongexponenttexture" "models\psi\shared/phongwarp_sheen" 
+}
